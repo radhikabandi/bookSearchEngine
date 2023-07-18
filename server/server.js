@@ -12,6 +12,7 @@ const db = require("./config/connection");
 // const routes = require('./routes');
 
 //express server
+
 const app = express();
 const PORT = process.env.PORT || 3001;
 
