@@ -15,6 +15,10 @@
     "url": "https://github.com/radhikabandi/bookSearchEngine"
   },
   "keywords": [],
+  "engines" :{
+    "node": "20.x",
+    "npm": "9.x"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -27,9 +31,5 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
-  },
-  "engines": {
-    "node": "14.16.0",
-    "npm": "8.19.3"
   }
 }
